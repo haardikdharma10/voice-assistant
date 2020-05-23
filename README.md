@@ -3,7 +3,7 @@ This repository contains a Voice-Assistant built using Python. The assistant is 
 The name 'Jarvis' was the name of Tony Stark's assistant in Iron Man.
 It is a very beginner-friendly assistant and does only a handful of tasks.
 To find out the tasks it can do, have a look at the code once:
-(/Voice-Assistant code/jarvis-assistant.py)
+[jarvis-assistant.py](https://github.com/haardikdharma10/voice-assistant/blob/master/SourceCode/jarvis-assistant.py)
 
 # Libraries
 Following additional libraries have been used in this repo:
