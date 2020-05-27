@@ -6,7 +6,7 @@ To find out the tasks it can do, have a look at the code once:
 [jarvis-assistant.py](https://github.com/haardikdharma10/voice-assistant/blob/master/jarvis-assistant.py)
 
 # Libraries
-Following additional libraries have been used in this repo:
+Following additional libraries have been used in this repo:  
 [1. pyttsx3](https://pypi.org/project/pyttsx3/)  
 [2. SpeechRecognition](https://pypi.org/project/SpeechRecognition/)  
 [3. Wikipedia](https://pypi.org/project/wikipedia/)
